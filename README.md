@@ -29,36 +29,15 @@ The project demonstrates the complete workflow from simulation to hardware desig
 - Observed random signal behavior  
 - Verified noise characteristics  
 
-#### Circuit Diagram
-![LTspice Circuit](images/ltspice-circuit.png)
-
-#### Output Waveforms
-- White Noise  
-![White Noise](images/white-noise.png)
-
-- Pink Noise  
-![Pink Noise](images/pink-noise.png)
-
----
-
 ### 2. PCB Design (KiCad)
 - Recreated schematic in KiCad  
 - Designed a 2-layer PCB  
 - Optimized component placement and routing  
 
-#### Schematic
-![KiCad Schematic](images/kicad-schematic.png)
-
-#### PCB Layout
-![PCB Layout](images/pcb-layout.png)
-
-#### 3D View
-![3D View](images/3d-view.png)
-
 ---
 
 ## Results
-- Successfully simulated random noise signals  
+- Successfully generated random noise signals in simulation  
 - Verified expected noise behavior  
 - Designed a functional 2-layer PCB  
 - Layout is ready for fabrication  
@@ -85,4 +64,7 @@ R. L. Boylestad and L. Nashelsky, *Electronic Devices and Circuit Theory*, 11th 
 ---
 
 ## Author
-**THANAGVIKRAMAN RAMACHANDRAN**
+**THANGAVIKRAMAN RAMACHANDRAN**  
+B.E. Electronics and Communication Engineering (Pre-Final Year)  
+
+🔗 LinkedIn: https://www.linkedin.com/in/thangavikraman-ramachandran/
